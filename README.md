@@ -1,2 +1,3 @@
 # tcc-easy-to-eat
-Trabalho de Conclusão de Curso feito durante o último ano do curso em Informática para Internet na Etec de Santa Isabel com 5 colegas de classe.
+Trabalho de Conclusão de Curso feito durante o último ano do curso em Informática para Internet na Etec de Santa Isabel com 5 colegas de classe. Esse projeto foi muito importante para minha formação, me ensinando noções de empreendedorismo, desenvolvimento e trabalho em equipe na prática. O trabalho foi desenvolvido ao longo de um ano inteiro de muita dedicação e trabaho.
+Tanto o site quanto o documento foram feitos por todas do grupo, cada uma responsável por sua parte. Esse é uma versão do site apresentada antes da finalização do trabalho e correção geral de erros com todo o grupo, com apenas as devidas correções nas páginas que desenvolvi.
